@@ -3,7 +3,7 @@
 Herramienta para detectar modelos GGUF descargados por LM Studio, agrupar variantes y generar artefactos listos para importar en Ollama.
 
 ## Documentación ampliada
-- Guía completa de funcionamiento (CLI + TUI): [docs/GUIA_USO.md](/Users/ximamon44/Repos.git/Github/ollama-importer/docs/GUIA_USO.md)
+- Guía completa de funcionamiento (CLI + TUI): [docs/GUIA_USO.md](docs/GUIA_USO.md)
 
 ## Qué hace
 - Escanea `~/.lmstudio/models` (o `--lmstudio-dir`) buscando `*.gguf`.
